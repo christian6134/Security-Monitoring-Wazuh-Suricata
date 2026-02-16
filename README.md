@@ -18,7 +18,7 @@ Wazuh Server IP Address (Ubuntu Server)
 
 Configure Wazuh Agent (Rasberry Pi) to use Ubuntu Server as Wazuh Server
 
-<img width="651" height="442" alt="image" src="https://github.com/user-attachments/assets/e26b67c6-d222-499b-b2d0-a5f7363159d1" />
+<img width="514" height="354" alt="image" src="https://github.com/user-attachments/assets/9de34b06-0b42-4fcd-84b7-de5d313c57f3" />
 
 Enrolled Rasberry Pi as Agent on Ubuntu Server
 
