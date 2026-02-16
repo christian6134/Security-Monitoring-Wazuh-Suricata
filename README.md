@@ -28,6 +28,10 @@ Registered the Raspberry Pi endpoint with the Wazuh Manager using agent enrollme
 
 <img width="1038" height="300" alt="image" src="https://github.com/user-attachments/assets/ddcb67aa-3a81-4e6e-8022-7916aeb9e886" />
 
-
+Insert Key (Enrollment)
 
 <img width="1292" height="434" alt="image" src="https://github.com/user-attachments/assets/9e2f32e0-a102-43ff-8018-5624cd7f4448" />
+
+After completing port forwarding, rasberry pi is enrolled
+
+<img width="583" height="150" alt="image" src="https://github.com/user-attachments/assets/9d1c253b-d169-4764-9bf6-b28dba61b47f" />
