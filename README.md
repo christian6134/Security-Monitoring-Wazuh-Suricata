@@ -1,8 +1,23 @@
 # SIEM-WAZUH--IDS-SURICATA-
 
-### Installed Wazuh
+### Installed Wazuh Server, Dashboard, Indexer on UBUNTU Server
 <img width="872" height="523" alt="image" src="https://github.com/user-attachments/assets/954ce37c-f96b-4995-a04a-13ee25c18cd3" />
 
-
-Logged into Wazuh Dashboard
+Logged into Wazuh Dashboard From Host OS (Lint Minux)
 <img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/6f305261-6007-4add-ac08-f415ac5c9eb4" />
+
+Configured Wazuh Agent on Rasberry Pi
+<img width="822" height="327" alt="image" src="https://github.com/user-attachments/assets/775a2998-1a2a-48d1-82f4-d5c3b41af447" />
+
+Wazuh Server IP Address (Ubuntu Server)
+<img width="845" height="251" alt="image" src="https://github.com/user-attachments/assets/bbccf8b1-0d5f-4d04-8543-d76d53ffad07" />
+
+Configure Wazuh Agent (Rasberry Pi) to use Ubuntu Server as Wazuh Server
+<img width="651" height="442" alt="image" src="https://github.com/user-attachments/assets/e26b67c6-d222-499b-b2d0-a5f7363159d1" />
+
+Enrolled Rasberry Pi as Agent on Ubuntu Server
+<img width="499" height="330" alt="image" src="https://github.com/user-attachments/assets/c707353e-28bf-4d4c-a44e-4bc0baf8424f" />
+
+Registered the Raspberry Pi endpoint with the Wazuh Manager using agent enrollment keys. This process establishes a trusted relationship between the agent and the centralized SIEM, ensuring authenticated log forwarding and preventing unauthorized agent connections.
+<img width="1038" height="300" alt="image" src="https://github.com/user-attachments/assets/ddcb67aa-3a81-4e6e-8022-7916aeb9e886" />
+
