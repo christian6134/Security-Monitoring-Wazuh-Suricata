@@ -6,7 +6,7 @@ This project documents the deployment of a small-scale Security Information and 
 The architecture consists of a Wazuh server running on an Ubuntu virtual machine and a Raspberry Pi endpoint running both the Wazuh agent and Suricata IDS. The Raspberry Pi acts as the network intrusion detection sensor while forwarding structured alerts to the Wazuh SIEM for analysis and visualization.
 
 ### Wazuh SIEM Deployment
-
+----
 The first step was deploying the Wazuh SIEM stack on an Ubuntu Server VM. The stack includes three primary components:
 
 • Wazuh Manager – collects and analyzes security events
