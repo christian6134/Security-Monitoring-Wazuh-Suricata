@@ -1,4 +1,5 @@
-## SIEM Homelab – Wazuh + Suricata IDS
+## Security Monitoring Homelab 
+### Author: Christian Garces
 ------------
 
 This project documents the deployment of a small-scale Security Information and Event Management (SIEM) environment using Wazuh and Suricata IDS. The objective of the lab was to simulate a real security monitoring pipeline by collecting host telemetry, analyzing network traffic, generating intrusion alerts, and visualizing detections within a centralized SIEM dashboard.
